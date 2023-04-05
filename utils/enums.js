@@ -1,0 +1,1 @@
+exports.someEnumArray = [] // example on how to define enums
